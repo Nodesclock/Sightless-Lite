@@ -1,6 +1,5 @@
 # Sightless-Lite
 Simple flashlight modification for nophenia, nothing else. Should work on BdE's multiplayer mod.
-#install
 ## Install
 1. Install nophenia-mp first (its installer adds GodotModLoader).
 2. Drop **`Nodesclock-SightlessLite.zip`** into the game's mods folder
